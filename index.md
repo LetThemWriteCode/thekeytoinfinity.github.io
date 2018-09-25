@@ -1,6 +1,5 @@
 # thekeytoinfinity.github.io
 Project Website
-<!DOCTYPE html>
 <html>
     <head>
         <link href="https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Coming+Soon|Dancing+Script|Gamja+Flower|Gloria+Hallelujah|Indie+Flower|Nanum+Brush+Script|Nanum+Pen+Script|Neucha|Oswald|Pacifico|Palanquin|Palanquin+Dark|Quicksand|Quintessential|Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab|Shadows+Into+Light" rel="stylesheet">
@@ -8,7 +7,7 @@ Project Website
         <title>Project: Blog</title>
         <style>
             body {
-                font: bold 15px "Nanum Pen Script", sans-serif;
+                font: bold 15px "fantasy", sans-serif;
                 color: rgb(243, 222, 138);
                 background: rgb(250, 243, 212);
             }
