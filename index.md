@@ -7,7 +7,7 @@ Project Website
         <title>Project: Blog</title>
         <style>
             body {
-                font: bold 15px "fantasy", sans-serif;
+                font: bold 15px 'Nanum Brush Script', cursive;
                 color: rgb(243, 222, 138);
                 background: rgb(250, 243, 212);
             }
